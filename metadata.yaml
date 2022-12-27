@@ -1,0 +1,35 @@
+_repo: Grotesque-architecture-or-rural-amusement-consisting-of-plans-elevations-and-sections-for-hut__69417
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wrighte, William
+    gutenberg_agent_id: '55251'
+    url: http://www.gutenberg.org/2009/agents/55251
+description: ''
+gutenberg_issued: '2022-11-24'
+identifiers:
+  gutenberg: '69417'
+language: en
+pgterms:marc904: http://www.archive.org/details/architecturerura00wrig
+pgterms:marc905: 20101026073118wrighte
+pgterms:marc906: '1815'
+pgterms:marc907: GB
+production_note: Chris Curnow, David Wilson and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: 'United Kingdom: J. Taylor,1815.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Architecture, Domestic -- Designs and plans'
+- !lcc 'NA'
+- GITenberg
+title: "Grotesque architecture; or, rural amusement\r\nconsisting of plans, elevations,\
+  \ and sections, for huts, retreats, summer and winter hermitages, terminaries, Chinese,\
+  \ Gothic, and natural grottos, cascades, baths, mosques, moresque pavilions, grotesque\
+  \ and rustic seats, green houses, &c. Many of which may be executed with flints,\
+  \ irregular stones, rude branches, and roots of trees. The whole containing twenty-eight\
+  \ new designs, with scales to each. To which is added, an explanation, with the\
+  \ method of executing them."
+url: http://www.gutenberg.org/ebooks/69417
