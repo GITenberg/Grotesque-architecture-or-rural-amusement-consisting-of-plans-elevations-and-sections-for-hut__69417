@@ -1,11 +1,16 @@
 _repo: Grotesque-architecture-or-rural-amusement-consisting-of-plans-elevations-and-sections-for-hut__69417
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69417-h/images/cover.jpg
 creator:
   author:
     agent_name: Wrighte, William
     gutenberg_agent_id: '55251'
     url: http://www.gutenberg.org/2009/agents/55251
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69417#Grotesque-architecture-or-rural-amusement-consisting-of-plans-elevations-and-sections-for-hut_
 gutenberg_issued: '2022-11-24'
 identifiers:
   gutenberg: '69417'
